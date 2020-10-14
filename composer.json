@@ -1,21 +1,21 @@
 {
-	"name": "laravel-enso/ocr",
+	"name": "genealogiawebsite/ocr",
 	"description": "A wrapper to work with ocrmypdf inside PHP.",
 	"version": "0.1.0",
 	"type": "library",
-	"keywords": ["laravel-enso", "ocrmypdf", "OCR", "text recognition"],
+	"keywords": ["genealogiawebsite", "ocrmypdf", "OCR", "text recognition"],
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Adrian Ocneanu",
 			"email": "aocneanu@gmail.com",
-			"homepage": "https://laravel-enso.com",
+			"homepage": "https://genealogiawebsite.com",
 			"role": "Developer"
 		},
 		{
 			"name": "Reza Fouladi",
 			"email": "raftx24@gmail.com",
-			"homepage": "https://laravel-enso.com",
+			"homepage": "https://genealogiawebsite.com",
 			"role": "Developer"
 		}
 	],
