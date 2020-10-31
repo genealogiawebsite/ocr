@@ -1,8 +1,8 @@
 {
 	"name": "genealogiawebsite/ocr",
 	"description": "A wrapper to work with ocrmypdf inside PHP.",
-	"version": "0.1.0",
 	"type": "library",
+<<<<<<< HEAD
 	"keywords": ["genealogiawebsite", "ocrmypdf", "OCR", "text recognition"],
 	"license": "MIT",
 	"authors": [
@@ -16,11 +16,32 @@
 			"name": "Reza Fouladi",
 			"email": "raftx24@gmail.com",
 			"homepage": "https://genealogiawebsite.com",
+=======
+	"keywords": [
+		"genealogiawebsite",
+		"ocrmypdf",
+		"OCR",
+		"text recognition",
+		"laravel"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Reza Fouladi",
+			"email": "raftx24@gmail.com",
+			"homepage": "https://genealogiawebsite.com",
+			"role": "Developer"
+		},
+		{
+			"name": "Adrian Ocneanu",
+			"email": "aocneanu@gmail.com",
+			"homepage": "https://genealogiawebsite.com",
+>>>>>>> upstream/master
 			"role": "Developer"
 		}
 	],
 	"require": {
-		"php": "^5.4 || ^7.0"
+		"php": ">=7.4"
 	},
 	"autoload": {
 		"psr-4": {
